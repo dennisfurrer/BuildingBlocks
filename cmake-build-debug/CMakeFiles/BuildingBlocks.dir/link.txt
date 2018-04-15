@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/BuildingBlocks.dir/main.cpp.o CMakeFiles/BuildingBlocks.dir/sha256.cpp.o CMakeFiles/BuildingBlocks.dir/Block.cpp.o CMakeFiles/BuildingBlocks.dir/Blockchain.cpp.o  -o BuildingBlocks 
